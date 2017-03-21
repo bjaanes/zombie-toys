@@ -21,12 +21,12 @@ GameObject:
   - component: {fileID: 4674866648421910}
   - component: {fileID: 33623941896483474}
   - component: {fileID: 23381171655732464}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1159871451043708
 GameObject:
@@ -38,12 +38,12 @@ GameObject:
   - component: {fileID: 4363823730814680}
   - component: {fileID: 33023183053991506}
   - component: {fileID: 23797604706475136}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1191990672820282
 GameObject:
@@ -53,12 +53,12 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4611275438021352}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1246906336935602
 GameObject:
@@ -70,12 +70,12 @@ GameObject:
   - component: {fileID: 4815065751252214}
   - component: {fileID: 33419354162792162}
   - component: {fileID: 23087200984338534}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1301762674985616
 GameObject:
@@ -87,12 +87,12 @@ GameObject:
   - component: {fileID: 4602103274726674}
   - component: {fileID: 33439849836552204}
   - component: {fileID: 23589414997793068}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1331064727287778
 GameObject:
@@ -104,12 +104,12 @@ GameObject:
   - component: {fileID: 4590804327991340}
   - component: {fileID: 33275655008422046}
   - component: {fileID: 23802788313867268}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1344011520463806
 GameObject:
@@ -121,12 +121,12 @@ GameObject:
   - component: {fileID: 4385940918983644}
   - component: {fileID: 33543237590403980}
   - component: {fileID: 23171511651578796}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1418573097477972
 GameObject:
@@ -138,12 +138,12 @@ GameObject:
   - component: {fileID: 4941744736789386}
   - component: {fileID: 33261125773380508}
   - component: {fileID: 23283323941048622}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1457043273035652
 GameObject:
@@ -155,12 +155,12 @@ GameObject:
   - component: {fileID: 4242703377611676}
   - component: {fileID: 33374923133577700}
   - component: {fileID: 23524756093204010}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1467399054927960
 GameObject:
@@ -172,12 +172,12 @@ GameObject:
   - component: {fileID: 4890880016622132}
   - component: {fileID: 33880805875225072}
   - component: {fileID: 23301440355945432}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1471715984928238
 GameObject:
@@ -189,12 +189,12 @@ GameObject:
   - component: {fileID: 4103385383995856}
   - component: {fileID: 33669204828674602}
   - component: {fileID: 23905079229798152}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1514136386150012
 GameObject:
@@ -206,12 +206,12 @@ GameObject:
   - component: {fileID: 4462272185529006}
   - component: {fileID: 33693008465122046}
   - component: {fileID: 23117437741683680}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1529312935712430
 GameObject:
@@ -223,12 +223,12 @@ GameObject:
   - component: {fileID: 4706813141516606}
   - component: {fileID: 33217915405276906}
   - component: {fileID: 23308918724528802}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1541713253175442
 GameObject:
@@ -240,12 +240,12 @@ GameObject:
   - component: {fileID: 4513232164864796}
   - component: {fileID: 33624596579203036}
   - component: {fileID: 23668761796815956}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1623701616071612
 GameObject:
@@ -257,12 +257,12 @@ GameObject:
   - component: {fileID: 4825765792346224}
   - component: {fileID: 33743054168599796}
   - component: {fileID: 23930292035817402}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1654977253018610
 GameObject:
@@ -274,12 +274,12 @@ GameObject:
   - component: {fileID: 4218053590447708}
   - component: {fileID: 33729052435853108}
   - component: {fileID: 23181371289673496}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1672558969021306
 GameObject:
@@ -291,12 +291,12 @@ GameObject:
   - component: {fileID: 4158671594961986}
   - component: {fileID: 33892290178743364}
   - component: {fileID: 23286597293767644}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1754967167981506
 GameObject:
@@ -308,12 +308,12 @@ GameObject:
   - component: {fileID: 4215787083734168}
   - component: {fileID: 33383640839648118}
   - component: {fileID: 23807147917986262}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1789105407872824
 GameObject:
@@ -328,12 +328,12 @@ GameObject:
   - component: {fileID: 65686629471995044}
   - component: {fileID: 65014396234698120}
   - component: {fileID: 65168601090755604}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1793606955000326
 GameObject:
@@ -345,12 +345,12 @@ GameObject:
   - component: {fileID: 4958885336066228}
   - component: {fileID: 33315672022110442}
   - component: {fileID: 23648232782456216}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1898275920837962
 GameObject:
@@ -362,12 +362,12 @@ GameObject:
   - component: {fileID: 4871981235887488}
   - component: {fileID: 33641864893861120}
   - component: {fileID: 23824795694724910}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallStar (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4059250258657654
 Transform:
@@ -402,7 +402,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1672558969021306}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.09, y: 8.11, z: -0}
+  m_LocalPosition: {x: 17.03, y: -8.97, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4611275438021352}

@@ -26,12 +26,13 @@ GameObject:
   - component: {fileID: 136312493393159650}
   - component: {fileID: 136238784924505318}
   - component: {fileID: 136844921752732186}
-  m_Layer: 0
+  - component: {fileID: 215643907739824718}
+  m_Layer: 10
   m_Name: Stool
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4126721213006564
 Transform:
@@ -39,13 +40,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1616498322227142}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9962998, y: 0.89595556, z: -0.24586245}
+  m_LocalRotation: {x: -0, y: -0.16543019, z: -0, w: 0.98622155}
+  m_LocalPosition: {x: 1.956955, y: 2.5875778, z: -23.72847}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -19.044, z: 0}
 --- !u!23 &23626307010404884
 MeshRenderer:
   m_ObjectHideFlags: 1
@@ -154,3 +155,35 @@ CapsuleCollider:
   m_Height: 5.5573754
   m_Direction: 1
   m_Center: {x: 2.29, y: 2.7827322, z: 2.29}
+--- !u!215 &215643907739824718
+ReflectionProbe:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1616498322227142}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Type: 0
+  m_Mode: 0
+  m_RefreshMode: 0
+  m_TimeSlicingMode: 0
+  m_Resolution: 128
+  m_UpdateFrequency: 0
+  m_BoxSize: {x: 10, y: 5.5057526, z: 10}
+  m_BoxOffset: {x: 0, y: 2.2471313, z: 0}
+  m_NearClip: 0.3
+  m_FarClip: 1000
+  m_ShadowDistance: 100
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IntensityMultiplier: 1
+  m_BlendDistance: 1
+  m_HDR: 1
+  m_BoxProjection: 0
+  m_RenderDynamicObjects: 0
+  m_UseOcclusionCulling: 1
+  m_Importance: 1
+  m_CustomBakedTexture: {fileID: 0}

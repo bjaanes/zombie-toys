@@ -20,12 +20,12 @@ GameObject:
   m_Component:
   - component: {fileID: 4715749947090286}
   - component: {fileID: 65617466869408632}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ColliderDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1468616908656314
 GameObject:
@@ -39,12 +39,12 @@ GameObject:
   - component: {fileID: 23751570132805254}
   - component: {fileID: 95263159778366974}
   - component: {fileID: 65514730549808954}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Dollhouse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4512219405117620
 Transform:
@@ -52,14 +52,14 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1468616908656314}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -112.9423, y: 90.39155, z: -163.00734}
+  m_LocalRotation: {x: -0, y: 0.9238794, z: -0, w: 0.38268375}
+  m_LocalPosition: {x: -29.076141, y: 2.6199875, z: -3.1507263}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4715749947090286}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 135, z: 0}
 --- !u!4 &4715749947090286
 Transform:
   m_ObjectHideFlags: 1

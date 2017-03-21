@@ -26,12 +26,12 @@ GameObject:
   - component: {fileID: 135361091293453118}
   - component: {fileID: 135888199405567118}
   - component: {fileID: 65015771487018716}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: DollArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1522835111387290
 GameObject:
@@ -42,12 +42,12 @@ GameObject:
   m_Component:
   - component: {fileID: 4957537038137812}
   - component: {fileID: 65207071293288362}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Collider2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1860726717458592
 GameObject:
@@ -58,12 +58,12 @@ GameObject:
   m_Component:
   - component: {fileID: 4391821357845990}
   - component: {fileID: 65770524921160856}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Collider1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4181636726290222
 Transform:
@@ -71,15 +71,15 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1029647452669266}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -113.10855, y: 90.57417, z: -161.58022}
+  m_LocalRotation: {x: -0, y: 0.15979555, z: -0, w: 0.9871502}
+  m_LocalPosition: {x: -9.196152, y: 2.8026123, z: -30.31073}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4391821357845990}
   - {fileID: 4957537038137812}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 18.390001, z: 0}
 --- !u!4 &4391821357845990
 Transform:
   m_ObjectHideFlags: 1
