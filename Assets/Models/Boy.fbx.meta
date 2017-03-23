@@ -351,7 +351,15 @@ ModelImporter:
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
-      events: []
+      events:
+      - time: 0.67346936
+        functionName: DeathComplete.OLD
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: c32067ea884548644b13cf9baddd4573,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
       transformMask:
       - path: 
         weight: 1
